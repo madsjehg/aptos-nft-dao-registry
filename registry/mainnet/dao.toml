@@ -1,0 +1,10 @@
+[governance]
+address = "0xafd015edc6157eae49c00c53c2535c3ddf4651136fdbf524e4f41a2c165bd5b3"
+description = "1212 flamingos on the Aptos blockchain striving for a stronger and more educated ecosystem. The first of hopefully many interesting experiments conducted by B.FLY LABS."
+creator-nickname = "Aptomingos"
+logo-url = "https://raw.githubusercontent.com/Aries-Markets/aptos-nft-dao-registry/main/release/images/aptomingos-logo.png"
+bg-img-url = "https://raw.githubusercontent.com/Aries-Markets/aptos-nft-dao-registry/main/release/images/aptomingos-banner.png"
+
+[links]
+twitter = "https://twitter.com/Aptomingos"
+discord = "https://discord.gg/CxhJMXrjAW"
